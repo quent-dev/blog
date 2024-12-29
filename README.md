@@ -38,3 +38,13 @@ For example, with Neovim it is temptinf to use arrows to move around in INSERT m
 2. **Do as much as possible from terminal and text editor**
 
 In the same vein, it is tempting to do things more quickly in the browser or using the file explorer but I will force myslelf to do as much as possible from the terminal and Neovim to really get familiar with these tools.
+
+## Resources
+
+Here are a couple of links I will be using:
+
+- [How to get into software](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+- [Markdown Guide](https://www.markdownguide.org/)
+
+
