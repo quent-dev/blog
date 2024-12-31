@@ -47,4 +47,5 @@ Here are a couple of links I will be using:
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+- [Arch Wiki](https://wiki.archlinux.org/title/Main_page)
 
